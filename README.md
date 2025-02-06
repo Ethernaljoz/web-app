@@ -12,3 +12,8 @@
 ### Next.js Dashboard
 
   - ## [Next.js dashboard live website demo](https://nextjs-dashboard-ethernaljoz.vercel.app/)
+
+
+### Note App
+
+  - ## [Note App live website demo](https://note-app-ethernaljoz.vercel.app/)
