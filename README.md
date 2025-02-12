@@ -16,4 +16,4 @@
 
 ### Note App
 
-  - ## [Note App live website demo](https://note-app-ethernaljoz.vercel.app/)
+  - ## [Note App live website demo](https://quick-note-beige.vercel.app/)
